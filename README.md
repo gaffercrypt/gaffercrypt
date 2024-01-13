@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 and crypto
 - 🌱 I’m currently learning Solana
 - 💞️ I’m looking to collaborate on Solana and web 3 development
-- 📫 How to reach me [...](https://twitter.com/gaffercrypt)
+- 📫 How to reach me [Twitter](https://twitter.com/gaffercrypt)
 - 😄 Pronouns: He/him
 
 
